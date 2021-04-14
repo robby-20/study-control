@@ -5,6 +5,8 @@ public class Person {
 	//This is a test
 	String name;
 	Person parent;
+	String hey;
+	String wasgeht;
 	
 	public Person(String name, 
 	              Person parent) {
@@ -33,5 +35,5 @@ public class Person {
 		System.out.println(darth.parent);
 		System.out.println(darth.parent.name);
 	}
-
+	//Ich verstehe nicht
 }
