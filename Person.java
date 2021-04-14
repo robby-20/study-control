@@ -2,7 +2,6 @@ package Uebung1.src;
 
 public class Person {
 	
-	//This is a test
 	String name;
 	Person parent;
 	
